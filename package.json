@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leonedott/background-generator/issues"
   },
-  "homepage": "https://github.com/leonedott/background-generator#readme"
+  "homepage": "https://github.com/leonedott/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
